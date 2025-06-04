@@ -22,7 +22,7 @@
 
 ## 💡 예시 화면
 
-| ![](./result.gif)
+| ![](./ondy.gif)
 
 ---
 
@@ -39,6 +39,6 @@
 
 ## 🚀 실행 방법
 
-```bash
-pip install pyqt5 pyserial
-python ondy_app.py
+dist - ondy_app.exe download
+
+종료 방법 : Ondy를 클릭한 뒤 Q를 누르면 자동 종료료
