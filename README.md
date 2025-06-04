@@ -9,6 +9,11 @@
 자세가 좋아지면 사라지는 방식으로 동작합니다.
 
 ---
+## Mac 버전
+https://github.com/eongeung/ondy-mac.git
+## Window 버전
+https://github.com/eongeung/ondy-window.git
+---
 
 ## 🛠 주요 기능
 
